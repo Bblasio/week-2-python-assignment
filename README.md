@@ -1,6 +1,9 @@
-﻿# week-2-python-assignment
- This assignment demonstrates Python list operations by creating an empty list named my_list and performing various manipulations. These include appending elements, inserting a value at a specific position, extending the list with additional values, removing the last element, sorting the list in ascending order, and finding the index of a specific value. It showcases practical use of Python’s built-in list methods to store, update, and organize data efficiently.
-#Code
+# week-2-python-assignment  
+
+This assignment demonstrates Python list operations by creating an empty list named `my_list` and performing various manipulations. These include appending elements, inserting a value at a specific position, extending the list with additional values, removing the last element, sorting the list in ascending order, and finding the index of a specific value. It showcases practical use of Python’s built-in list methods to store, update, and organize data efficiently.  
+
+##  Code  
+```python
 # Create an empty list
 my_list = []
 
@@ -27,4 +30,3 @@ print(my_list.index(30))
 
 # Print the final list to see the result
 print(my_list)
-
